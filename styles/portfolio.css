@@ -94,6 +94,7 @@ nav a {
     font-weight: 700;
     margin-top: 5px;
     margin-bottom: 20px;
+    white-space: nowrap;
 }
 /* main section styles */
 main{
